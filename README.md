@@ -1,5 +1,5 @@
 # The Neural Hawkes Particle Smoothing
-Source code for [Imputing Missing Events in Continuous-Time Event Streams (ICML 2019)](http://cs.jhu.edu/~jason/papers/#mei-et-al-2019) runnable on GPU and CPU.
+Source code for [Imputing Missing Events in Continuous-Time Event Streams (ICML 2019)](https://arxiv.org/abs/1905.05570) runnable on GPU and CPU.
 
 ## Reference
 If you use this code as part of any published research, please acknowledge the following paper (it encourages researchers who publish their code!):
